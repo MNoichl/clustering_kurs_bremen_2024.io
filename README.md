@@ -2,7 +2,7 @@
 
 *– Maximilian Noichl*
 
-[Work in progress!]
+Work in progress!
 
 
 
@@ -14,13 +14,4 @@
 
 
 ## Notebooks
-
-
-
-
-
-
-
-
-
 
