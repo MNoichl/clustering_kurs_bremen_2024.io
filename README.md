@@ -1,7 +1,7 @@
 Hello, and welcome to the website for our course on **conteporary solutions for clustering and data-visualisation** for social scientists.
 During and after the course you will be able to access all the course materials on this website. 
 
-**Note:** This course will make use of colab-notebooks, so that we all can start of working in the same interacive python-environment. All you have to do in order to start of with this on Monday is have an active google-account. If you have a moment, you can verify that everything works, and familiarize yourself with the colab-environment in !(https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb)[this notebook].
+**Note:** This course will make use of colab-notebooks, so that we all can start of working in the same interacive python-environment. All you have to do in order to start of with this on Monday is have an active google-account. If you have a moment, you can verify that everything works, and familiarize yourself with the colab-environment in [https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb](this notebook).
 
 
 
