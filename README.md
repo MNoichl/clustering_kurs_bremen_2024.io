@@ -3,7 +3,7 @@ During and after the course you will be able to access all the course materials 
 
 **Note:** This course will make use of colab-notebooks, so that we all can start of working in the same interacive python-environment. All you have to do in order to start of with this on Monday is have an active google-account. If you have a moment, you can verify that everything works, and familiarize yourself with the colab-environment in [this notebook](https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb).
 
-
+Looking forward to a great course! – **MN**
 
 ### Schedule
 * **9:00 – 9:15** Introductions 
@@ -17,4 +17,4 @@ During and after the course you will be able to access all the course materials 
 * **16:15 – 16:30** Outro & Final Questions
 
 ### Materials
-*Materials will be added here*
+*Materials will be added here!*
