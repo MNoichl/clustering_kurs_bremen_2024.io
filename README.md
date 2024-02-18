@@ -18,3 +18,5 @@ Looking forward to a great course! – **MN**
 
 ### Materials
 *Materials will be added here!*
+
+* The clustering explorer can be found [here!](https://huggingface.co/spaces/m7n/clustering_explorer)
