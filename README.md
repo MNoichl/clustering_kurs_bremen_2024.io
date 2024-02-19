@@ -18,4 +18,5 @@ Looking forward to a great course! – **MN**
 
 ### Materials
 * The clustering explorer can be found [here!](https://huggingface.co/spaces/m7n/clustering_explorer)
+* alternative: [https://de7f6e7b4f7016eb50.gradio.live](https://de7f6e7b4f7016eb50.gradio.live)
 * Here's an interactive notebook to [explore your datasets.](https://colab.research.google.com/drive/1uviP9cI7k1AdDawssIlbYDQ5-8E6O18f?usp=sharing)
